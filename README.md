@@ -1,7 +1,7 @@
 # Dev List
 A list of resources I used to keep up to date on the web industry.
 
-## Blogs
+## Blogs (dev + design)
 
 + [A Drip of JavaScript](http://feeds.feedburner.com/DesignPepper)
 + [A List Apart: The Full Feed](http://www.alistapart.com/site/rss)
