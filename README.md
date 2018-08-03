@@ -88,6 +88,7 @@ A list of resources I used to keep up to date on the web industry.
 + [JavaScript Weekly](https://javascriptweekly.com/)
 + [Kent C. Dodds News](https://buttondown.email/kentcdodds)
 + [Node Weekly](http://nodeweekly.com/)
++ [React Status](http://react.statuscode.com/)
 + [Web Design Weekly](https://web-design-weekly.com/)
 
 ## Videos
