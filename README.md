@@ -1,4 +1,4 @@
-# Dev List
+# Dev Lists
 A list of resources I used to keep up to date on the web industry.
 
 ## Blogs (dev + design)
@@ -24,6 +24,8 @@ A list of resources I used to keep up to date on the web industry.
 + [Dev.Opera](http://dev.opera.com/feed/blog)
 + [Envato Tuts+ Code](http://feeds.feedburner.com/nettuts)
 + [Facebook Code](https://code.facebook.com/posts/rss)
++ [Hacker News](https://news.ycombinator.com/)
++ [Hacker Noon](https://hackernoon.com/feed)
 + [HTML5Rocks](http://feeds.feedburner.com/html5rocks)
 + [Jake Archibald's Blog](https://jakearchibald.com/posts.rss)
 + [John Resig](http://ejohn.org/feed/)
