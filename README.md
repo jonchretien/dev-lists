@@ -1,5 +1,5 @@
 # Dev Lists
-A list of resources I used to keep up to date on the web industry.
+A list of resources I use to keep up to date on the web industry.
 
 ## Blogs (dev + design)
 
