@@ -79,6 +79,7 @@ A list of resources I use to keep up to date on the web industry.
 ## Newsletters
 
 + [A Drip of Javascript](http://adripofjavascript.com/)
++ [CSS Weekly](https://css-weekly.com/)
 + [Frontend Focus](http://frontendfocus.co/)
 + [JavaScript Weekly](https://javascriptweekly.com/)
 + [Kent C. Dodds News](https://buttondown.email/kentcdodds)
