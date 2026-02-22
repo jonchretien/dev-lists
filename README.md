@@ -1,6 +1,8 @@
 # Dev Lists
 A list of resources I use to keep up to date on the web industry. Categories are still a WIP.
 
+[feeds.opml](feeds.opml) — import into any RSS reader
+
 ## AI
 
 + [AI Agents, AI Engineering, & LLM Systems](https://sebgnotes.substack.com) ([feed](https://sebgnotes.substack.com/feed))
