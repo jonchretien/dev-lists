@@ -3,6 +3,12 @@ A list of resources I use to keep up to date on the web industry. Categories are
 
 [feeds.opml](feeds.opml) — import into any RSS reader
 
+To regenerate after editing `README.md`:
+
+```
+node scripts/generate-opml.js
+```
+
 ## AI
 
 + [AI Agents, AI Engineering, & LLM Systems](https://sebgnotes.substack.com) ([feed](https://sebgnotes.substack.com/feed))
