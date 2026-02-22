@@ -1,5 +1,5 @@
-# Dev Lists
-A list of resources I use to keep up to date on the web industry. Categories are still a WIP.
+# Awesome Feeds
+A curated list of RSS feeds I use to keep up to date on the web industry.
 
 [feeds.opml](feeds.opml) — import into any RSS reader
 
@@ -315,23 +315,3 @@ node scripts/generate-opml.js
 + [Writing – Union Square Ventures](https://www.usv.com) ([feed](https://www.usv.com/writing/feed/))
 + [Zach Holman](http://zachholman.com/) ([feed](http://feeds.feedburner.com/zachholman))
 
-## Newsletters
-
-+ [A Drip of Javascript](http://adripofjavascript.com/)
-+ [Bits of Code](https://bitsofco.de/)
-+ [CSS Weekly](https://css-weekly.com/)
-+ [Frontend Focus](http://frontendfocus.co/)
-+ [JavaScript Weekly](https://javascriptweekly.com/)
-+ [Kent C. Dodds News](https://buttondown.email/kentcdodds)
-+ [Node Weekly](http://nodeweekly.com/)
-+ [React Status](http://react.statuscode.com/)
-+ [Web Design Weekly](https://web-design-weekly.com/)
-
-## Videos
-
-+ [Addy Osmani Tech Talks](https://www.youtube.com/playlist?list=PLVUliVBcvz1lKS9-rcPFFXkwGOj_YX_-5)
-+ [DevTips with Kent](https://www.youtube.com/playlist?list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u)
-+ [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-+ [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers)
-+ [JSConf](https://www.youtube.com/user/jsconfeu)
-+ [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
