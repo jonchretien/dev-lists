@@ -1,5 +1,5 @@
 # Awesome Feeds
-A curated list of RSS feeds I use to keep up to date on the web industry.
+A curated list of RSS feeds I use to keep up to date on the tech industry.
 
 [feeds.opml](feeds.opml) — import into any RSS reader
 
